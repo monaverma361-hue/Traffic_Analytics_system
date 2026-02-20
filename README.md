@@ -31,7 +31,3 @@ python3 speed_estimator.py
 
 Press `q` in the display window to quit.
 
-## Notes & recommendations
-- Large files (model weights, videos) are included in the repo history — consider purging them with `git filter-repo` or re-adding them outside git (e.g., release assets, Git LFS, or cloud storage).
-- A `.gitignore` is included to prevent accidentally committing the model and demo videos.
-- If you want, I can: remove large files from history, add a `requirements.txt`, or prepare a lightweight example that downloads the model at runtime.
