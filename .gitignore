@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Models and large binaries
+yolov8n.pt
+
+# Videos
+demo/*.mp4
+
+# Local env
+.env
