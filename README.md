@@ -29,5 +29,5 @@ pip install ultralytics opencv-python cvzone numpy torch
 python3 speed_estimator.py
 ```
 
-Press `q` in the display window to quit.
+Press `q` in the display window to quit..
 
